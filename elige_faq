@@ -1,0 +1,20 @@
+{
+    "code": 200,
+    "data": {
+       "questions": [
+            {
+                "question": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                "response": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit... Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            },
+            {
+                "question": "Neque porro quisquam est qui dolorem ipsum ",
+                "response": "Neque porro "
+            },
+            {
+                "question": "tristique lorem. Sed congue eros eget nibh luctus, ut fermentum est lacinia. ?",
+                "response": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et enim quis urna porttitor pellentesque quis vel dolor. Donec lobortis finibus arcu eget euismod. Cras commodo dolor nisi, eget tincidunt nibh dictum a."
+            }
+        ] 
+    }
+        
+}
